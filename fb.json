@@ -1,0 +1,108 @@
+{
+    "Clubs": [
+      {
+        "id": 0,
+        "name": "F.C.Barcelona",
+        "web": "https://www.fcbarcelona.com/en/",
+        "Manager": "Xavi",
+        "description": "Football Club in La-Liga(Spain)",
+        "Players": [
+          "Lewondowski","Auba","Pique","Torres","Jordi Alba","Sergi Busquets","Sergio Aguero","Anssumane Fati","Sergi Roberto","Eric Garcia","Pedri","Frenkie De Jong","Memphis Depay","Raphinha","Fabio Gomez","Hector Bellerin","Marcos Alonso"
+        ],
+        "Goal-Keepers": [
+          "Marc-Andre ter Stegen","Arnau Tenas"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Manchester United F C",
+        "web" : "https://www.manutd.com/",
+        "Manager" : "Erik ten Hag",
+        "description":"Football Club in PL(UK)",
+        "Players": [
+          "Marcus Rashford","Cristiano Ronaldo","B Fernandes","J Sancho","H Maguire","A Martial","E Cavani","Casemiro","Varane","Antony","Donny Van de Beek","Fred","Phil Jones","D Dalot","C Eriksen","L Shaw","A Garnacho","A Elanga","V Lindelof"
+        ],
+        "Goal-Keepers": [
+            "Radek Vitek","David de Gea"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "P.S.G",
+        "web": "https://en.psg.fr/",
+        "Manager" : "Christophe Galtier",
+        "description": "French Football Club",
+        "PLayers": [
+          "L Messi","Neymar","Mbappe","Di Maria","S Ramos","Hakimi","M Veratti","Marquinhos","F Ruiz","P Sarabia","C Soler","J Bernat","P. Kimpembe","Nuno Mendes","N. Mukiele","T. Pembélé","B. El Chadaille","A. Kari","Z. Emery","I. Gharbi","Renato Sanches"
+        ],
+        "Goal-Keepers": [
+            "G. Donnarumma","Keylor Navas","Sergio Rico","A. Letellier","Lucas Lavallée"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "REAL MADRID F.C",
+        "web": "https://www.realmadrid.com/en",
+        "Manager" : "Carlo Ancelotti",
+        "description" : "Football Club in La-Liga(Spain)",
+        "PLayers": [
+          "Dani Carvajal","Álvaro Odriozola","Sergio Santos","Ferland Mendy","David Alaba","Nacho Fernandez","Nacho","Mario Gila","Rafa","Éder Militão","Antonio Rüdiger","Jesús Vallejo","Lucas Vázquez","Luka Modrić","Toni Kroos","Federico Valverde","Eduardo Camavinga","Eden Hazard","Karim Benzema","Vinícius Júnior","Marco Asensio","Rodrygo"
+        ],
+        "Goal-Keepers": [
+            "Lucas Cañizars","Thibaut Courtois","Luis López","Andriy Lunin","Diego Piñeiro"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "ARSENAL",
+        "web": "https://www.arsenal.com/",
+        "Manager" : "Mikel Arteta",
+        "description": "Football Club in PL(UK)",
+        "PLayers": [
+          "Oleksandr Zinchenko","Gabriel Jesus","Bukayo Saka","Martin Ødegaard","Kieran Tierney","Ben White","William Saliba","Rob Holding","Cédric Soares","Takehiro Tomiyasu","Lino Sousa","Thomas Partey","Emile Smith Rowe","Fabio Vieira","Albert Sambi Lokonga","Mohamed Elneny","Granit Xhaka","Catalin Cirjan","Matthew Smith","Ethan Nwaneri","Amario Cozier-Duberry","Bradley Ibrahim","Gabriel Martinelli","Edward Nketiah","Reiss Nelson","Marquinhos","Khayon Edwards"
+        ],
+        "Goal-Keepers": [
+            "Aaron Ramsdale","Matt Turner","Karl Hein"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "CHELSEA",
+        "web": "https://www.chelseafc.com/en",
+        "Manager" : "Graham Potter",
+        "description": "Football Club in PL(UK)",
+        "PLayers": [
+         "Thiago Silva","Trevoh Chalobah","Ben Chilwell","Reece James","Kalidou Koulibaly","Cesar Azpilicueta","Marc Cucurella","Wesley Fofana","Cesare Casadei","Jorginho","N'Golo Kante","Mateo Kovacic","Christian Pulisic","Ruben Loftus-Cheek","Mason Mount","Denis Zakaria","Hakim Ziyech","Conor Gallagher","Kai Havertz","Carney Chukwuemeka","Omari Hutchinson","Pierre-Emerick Aubameyang","Raheem Sterling","Armando Broja"
+        ],
+        "Goal-Keepers": [
+            "Kepa","Marcus Bettinelli","Edouard Mendy"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "JUVENTUS",
+        "web": "https://www.juventus.com/en/",
+        "Manager" : "Massimiliano Allegri",
+        "description": "Football Club - Serie A",
+        "PLayers": [
+         "Danilo","Tommaso Barbieri","Mattia De Sciglio","Alex Sandro","Leonardo Bonucci","Bremer","Juan Cuadrado","Federico Gatti","Daniele Rugani","Diego Stramaccioni","Paul Pogba","Filip Kostić","Marley Aké","Federico Chiesa","Enzo Barrenechea","Mattia Compagnon","Nicolò Fagioli","Mohammed Ihattaren","Samuel Iling-Junior","Manuel Locatelli","Weston McKennie","Fabio Miretti","Adrien Rabiot","Ángel di María","Moise Kean","Cosimo Marco Da Graca","Matìas Soulé","Arkadiusz Milik"
+        ],
+        "Goal-Keepers": [
+            "Giovanni Garofani","Mattia Perin","Carlo Pinsoglio","Marco Raina","Wojciech Szczęsny"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "BORUSSIA DORTMUND",
+        "web": "https://www.bvb.de/eng",
+        "Manager" : "Edin Terzić",
+        "description": "Football Club - Bundesliga",
+        "PLayers": [
+            "Mateu Morey","Nico Schlotterbeck","Raphaël Guerreiro","Nico Schulz","Mats Hummels","Thomas Meunier","Niklas Süle","Tom Rothe","Soumaila Coulibaly","Salih Ozcan","Giovanni Reyna","Thorgan Hazard","Marco Reus","Marius Wolf","Julian Brandt","Jude Bellingham","Emre Can","Felix Passlack","Abdoulaye Kamara","Goktan Gurpuz","Antonios Papadopoulos","Sébastien Haller","Youssoufa Moukoko","Anthony Modeste","Donyell Malen","Karim Adeyemi","Jamie Bynoe-Gittens","Justin Njinmah"
+        ],
+        "Goal-Keepers": [
+            "Gregor Kobel","Silas Ostrzinski","Alexander Meyer","Marcel Lotka","Luca Unbehaun"
+        ]
+      }
+    ]
+  }
