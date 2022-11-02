@@ -7,16 +7,26 @@
     "express-session": "^1.17.3",
     "g": "^2.0.1",
     "json-server": "^0.17.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
   },
   "name": "akilan-pt6033",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "Football Api"
+  "description": "Football Api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akilan-18/jsonserver.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Akilan-18/jsonserver/issues"
+  },
+  "homepage": "https://github.com/Akilan-18/jsonserver#readme"
 }
